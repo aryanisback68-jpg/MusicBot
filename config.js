@@ -54,7 +54,7 @@ module.exports = {
   
   // URLs
   urls: {
-    support: process.env.SUPPORT_SERVER || 'https://discord.gg/your-support-server',
+    support: process.env.SUPPORT_SERVER || 'https://discord.gg/BWDhF2sGRp',
     github: 'https://github.com/Unknownzop/MusicBot'
   },
   
